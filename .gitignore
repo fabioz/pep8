@@ -4,3 +4,5 @@
 .tox
 dist
 docs/_build
+/.project
+/.pydevproject
